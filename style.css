@@ -1,0 +1,14 @@
+.banner{
+    background-color: black;
+}
+.opacity{
+    opacity: 0.5;
+}
+
+.btn {
+    background-color: #ffffff;
+    color: darkblue;
+}
+.row{
+    margin: 50px;
+}
